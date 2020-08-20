@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub page. I use GitHub to upload some projects I'm working on.
 
-Here are some of my favorite ones:
+If you'd like to reach out to me please feel free to send me an email to aa2eom7ye@relay.firefox.com. Thanks 😀
+
+🦕
+
+Here is a short collection of some of my projects:
 - **[kniffel](https://github.com/sp4c38/kniffel)**  I always play kniffel with my familiy in the winter break. It's fun! This is a python project which uses pygame to make this cool game playable on your computer.
 
 - **[PizzaApp](https://github.com/sp4c38/PizzaApp)** is a project I'm currently working on. It is a iOS App created using Swift and SwiftUI. It's a project thought for restaurants to make it simple for customers to order pizza and easy for staff to view ordered pizzas.
