@@ -23,7 +23,7 @@ I like dinos 🤩
 
 <img src="https://github.com/sp4c38/sp4c38/blob/master/dino.png" width="60">
 
-Here is a short collection of some of my projects:
+Here is a collection of some of my projects:
 - **[kniffel](https://github.com/sp4c38/kniffel)**  I always play kniffel with my familiy in the winter break. It's fun! This is a python project which uses pygame to make this cool game playable on your computer.
 
 - **[PizzaApp](https://github.com/sp4c38/PizzaApp)** is a project I'm currently working on. It is a iOS App created using Swift and SwiftUI. It's a project thought for restaurants to make it simple for customers to order pizza and easy for staff to view ordered pizzas.
