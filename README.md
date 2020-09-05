@@ -26,7 +26,7 @@ You also like space? 🤩
 Here is a collection of some of my projects:
 - **[kniffel](https://github.com/sp4c38/kniffel)**  I always play kniffel with my familiy in the winter break. It's fun! This is a python project which uses pygame to make this cool game playable on your computer.
 
-- **[PizzaApp](https://github.com/sp4c38/PizzaApp)** is a project I'm currently working on. It is a iOS App created using Swift and SwiftUI. It's a project thought for restaurants to make it simple for customers to order pizza and easy for staff to view ordered pizzas.
+- **[PizzaApp](https://github.com/sp4c38/PizzaApp)** This is an iOS App created using Swift and SwiftUI. It's a project thought for restaurants to make it simple for customers to order pizza and easy for staff to view ordered pizzas.
 
 - **[vertretungsplan-fsg](https://github.com/sp4c38/vertretungsplan-fsg)**  This python project gets the "Vertretungsplan" of my school's website and sends it in a group via telegram. Recently I added a second part which allows a telegram user to interact with the bot and set individual settings.
 
