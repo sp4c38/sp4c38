@@ -19,9 +19,9 @@ Welcome to my GitHub page. I use GitHub to upload some projects I'm working on.
 
 If you'd like to reach out to me please feel free to send me an email to aa2eom7ye@relay.firefox.com. Thanks 😀
 
-You also like dinos? 🤩
+You also like space? 🤩
 
-<img src="https://github.com/sp4c38/sp4c38/blob/master/dino.png" width="60">
+<img src="https://github.com/sp4c38/sp4c38/blob/master/space.png" width="250">
 
 Here is a collection of some of my projects:
 - **[kniffel](https://github.com/sp4c38/kniffel)**  I always play kniffel with my familiy in the winter break. It's fun! This is a python project which uses pygame to make this cool game playable on your computer.
