@@ -24,7 +24,7 @@ You also like space? 🤩
 <img src="https://github.com/sp4c38/sp4c38/blob/master/space.png" width="250">
 
 Here is a collection of some of my projects:
-- **[Wer Wird Millionär](https://github.com/sp4c38/WerWirdMillionaer)** A game for iOS and iPadOS platforms to play the popular german quiz show **Wer Wird Millionär** on your phone 📱🎮
+- **[Wer Wird Millionär?](https://github.com/sp4c38/WerWirdMillionaer)** A game for iOS and iPadOS platforms to play the popular german quiz show **Wer Wird Millionär?** on your phone 📱🎮
 
 - **[Vertretungsplan FSG](https://github.com/sp4c38/vertretungsplan-fsg)**  Python bot which gets the Vertretungsplan of my school's website and sends it to students via Telegram.
 
