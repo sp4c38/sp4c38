@@ -19,10 +19,6 @@ Welcome to my GitHub page. I use GitHub to upload some projects I'm working on.
 
 📬 If you'd like to reach out to me please feel free to send me an email to aa2eom7ye@relay.firefox.com
 
-You also like space? 🤩
-
-<img src="https://github.com/sp4c38/sp4c38/blob/master/space.png" width="250">
-
 Here is a collection of some of my projects:
 - **[Wer Wird Millionär?](https://github.com/sp4c38/WerWirdMillionaer)** A game for iOS and iPadOS platforms to play the popular german quiz show **Wer Wird Millionär?** on your phone 📱🎮
 
