@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub page. I use GitHub to upload some projects I'm working on.
 
+![sp4c38's github stats](https://github-readme-stats.vercel.app/api?username=sp4c38&show_icons=true)
+
 📬 If you'd like to reach out to me please feel free to send me an email to the address shown on my GitHub profile under my profile picture 👍.
 
 Here is a collection of some of my projects:
