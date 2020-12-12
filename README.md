@@ -24,7 +24,7 @@ Welcome to my GitHub page. I use GitHub to upload some projects I'm working on.
 Here is a collection of some of my projects:
 - **[AWattPrice](https://github.com/sp4c38/AWattPrice)** 🔋⚡️ An app that displays and helps you to search electricty price data retrieved from the public aWATTar API ⚡️🔋
 
-- **[Wer Wird Millionär?](https://github.com/sp4c38/WerWirdMillionaer)** A game for iOS and iPadOS platforms to play the popular german quiz show **Wer Wird Millionär?** on your phone 📱🎮
+- **[Wer Wird Millionär?](https://github.com/sp4c38/WerWirdMillionaer)** A game for iOS and iPadOS platforms to play the popular german quiz show **Wer Wird Millionär?** on your iPad 🎮
 
 - **[Vertretungsplan FSG](https://github.com/sp4c38/vertretungsplan-fsg)** 📆 Python bot which gets the daily Vertretungsplan of my school's website and sends it to students via Telegram.
 
